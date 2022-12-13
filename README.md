@@ -1,6 +1,6 @@
 ## 👋 Hi, My Name is Jason Ling
-  - I'm currently located in Vancouver, British Columbia
-  - I'm a Full Stack Developer, graduated from Lighthouse Labs and have a background in marketing
+  - 📍 I'm currently located in Vancouver, British Columbia
+  - 👨‍💻 I'm a Full Stack Developer, graduated from Lighthouse Labs and have a background in marketing
   - 📫 You can reach me at Jasonling1996@gmail.com
 
 ## Skills
